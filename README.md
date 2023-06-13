@@ -19,3 +19,7 @@ https://github.com/SuchitraSwain/car-showcase-nextjs/assets/25793195/6b10f178-7c
 
 1. npm install
 2. npm run dev (localhost: 3000)
+
+
+https://www.imagin.studio/
+https://rapidapi.com/hub
