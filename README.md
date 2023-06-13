@@ -1,6 +1,12 @@
 # Car Showcase NextJs App
 
 
+
+https://github.com/SuchitraSwain/car-showcase-nextjs/assets/25793195/6b10f178-7c98-4a2d-987e-85cb11354bba
+
+
+
+
 ## Tech used - 
 1. NextJs
 2. Tailwind CSS
